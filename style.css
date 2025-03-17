@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.centerdiv {
+    text-align: center;
+    gap: 20px;
+}
+
+.buttoncenter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#title {
+    font-size: 150px;
+    font-family: "Ubuntu";
+    font-weight: 300;
+}
+
+body {
+    background-color: #292929;
+    color: white;
+}
+button {
+    width: 260;
+    height: 100;
+    background-color: black;
+    border: 0px;
+    border-radius: 20px;
+    font-size: xx-large;
+    color: white;
+}
+
+h4 {
+    font-family: 'Ubuntu';
+}
+a {
+    font-family: 'Ubuntu';
+    color: white;
+}
