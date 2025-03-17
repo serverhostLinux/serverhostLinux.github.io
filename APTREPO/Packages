@@ -6,7 +6,7 @@ Installed-Size: 268157
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: server-host_1.5.0_amd64.deb
-Size: 75104526
+Size: 75497472
 MD5sum: 39041d7f6437881483f41fc1b336adfb
 SHA1: bbba291d37c7e1c7df9f24fb52fcfebac932129f
 SHA256: 8c6f0a4574f97951a20ae96fbda0e87c0cd1d5601aa4d1a4d1531d1b335c3cc0
